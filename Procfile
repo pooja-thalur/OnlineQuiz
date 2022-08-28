@@ -1,1 +1,1 @@
-web: gunicorn OnlineQuizPlatform-master.wsgi
+web: gunicorn OnlineQuizPlatform.wsgi
