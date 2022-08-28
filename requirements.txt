@@ -12,3 +12,4 @@ python-dateutil
 pytz
 six
 sqlparse
+gunicorn
